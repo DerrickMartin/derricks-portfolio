@@ -1,5 +1,6 @@
 {
   "name": "2022-portfolio",
+  "license": "MIT",
   "version": "0.1.0",
   "private": true,
   "scripts": {
